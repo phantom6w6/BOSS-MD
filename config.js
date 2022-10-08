@@ -37,8 +37,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have type "-" or just let it be so there are credits :v
-global.sig = 'https://instagram.com/dark-umar404' //Link Instagram
-global.sgh = 'https://github.com/umar404' //Link Github
+global.sig = 'https://instagram.com/darkwinzo' //Link Instagram
+global.sgh = 'https://github.com/DarkWinzo' //Link Github
 global.sgc = 'https://chat.whatsapp.com/L3jGoTei59SCVCjmv4BhyE'
 global.sdc = '-' //Fill it with your Discord link, if it's not there, just leave it alone
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, you can fill this up it's up to you :v
@@ -89,11 +89,11 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 𝙱𝙾𝚂𝚂-𝙼𝙳 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴜᴍᴀʀ- ᴅᴇᴠIʟ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙱𝙾𝚂𝚂-𝙼𝙳 𝙱𝙾𝚃'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Isuruʟ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ DarkWinzo 𝙱𝙾𝚃'
 global.botdate = `⫹⫺ 𝐷𝛥𝑌: ${week} ${date}`
 global.bottime = `𝑇𝛪𝛭𝛯 : ${wktuwib}`
-global.titlebot = '🎋 ┊ ᴜᴍᴀʀ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ DarkWinzo Bot'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
