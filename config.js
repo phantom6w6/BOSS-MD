@@ -44,19 +44,19 @@ global.sdc = '-' //Fill it with your Discord link, if it's not there, just leave
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, you can fill this up it's up to you :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '03475589080' //Your Fund Number
-global.ppulsa = '03475589080' //The SimCard Number You Are Using
-global.psaweria = 'https://www.youtube.com/c/UMARMODS' //If you have a link, please type it 
+global.pdana = '94717632669' //Your Fund Number
+global.ppulsa = '94717632669' //The SimCard Number You Are Using
+global.psaweria = 'https://www.youtube.com' //If you have a link, please type it 
 /*============== NUMBER==============*/
-global.nomorbot = '488888781888' //owner number
-global.nomorown = '923165123719' //owner number
-global.namebot = 'Boss-Md BOT' //Name Bot
-global.nameown = 'Umar Devil' // Name Owner
+global.nomorbot = '94717632669' //owner number
+global.nomorown = '94717632669' //owner number
+global.namebot = 'DarkWinzo BOT' //Name Bot
+global.nameown = 'DarkWinzo' // Name Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['+48 888 781 888', '❦ U m a r- Boss? 🎐', true], //Change your number to your name
+  ['+94717632669', '❦ DarkWinzo? 🎐', true], //Change your number to your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
