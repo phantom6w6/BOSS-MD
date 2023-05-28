@@ -1,6 +1,6 @@
 
 ## Attention Please! 
-Who Want Nowa Fucntion Register & Unregister Number Searching Bot Inbox Me [Click Here Wa Me](https://wa.me/923165123719#L1) 
+Who Want Nowa Fucntion Register & Unregister Number Searching Bot Inbox Me [Click Here Wa Me](https://wa.me/263779694908#L1) 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
     <img src="https://i.imgur.com/cG37u1e.jpeg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -18,19 +18,19 @@ Who Want Nowa Fucntion Register & Unregister Number Searching Bot Inbox Me [Clic
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/923165123719">
+  <a href="https://wa.me/263779694908">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/dark-umar404">
+  <a href="https://www.instagram.com/dr.juiceofficial">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:umardevil48@gmail.com">
+  <a href="mailto:princemandivhei57@gmail.com.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/923165123719"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923165123719) 
+## ```Whatsapp``` <a href="https://wa.me/263779694908"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263779694908) 
 ---------
 
 #### a little about this bot
@@ -66,7 +66,7 @@ Who Want Nowa Fucntion Register & Unregister Number Searching Bot Inbox Me [Clic
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umar404/BOSS-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phantom6w6/BOSS-MD)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -84,7 +84,7 @@ $ git clone https://github.com/umar404/BOSS-MD
 $ cd BOSS-MD
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/umar404/BOSS-MD/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/phantom6w6/BOSS-MD/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
 $ node .
 ```
@@ -139,7 +139,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/umar404/BOSS-MD
+git clone https://github.com/phantom6w6/BOSS-MD
 cd BOSS-MD
 npm install
 npm update
@@ -208,11 +208,11 @@ conn.sendButton(
 )
 
 // example 
-conn.sendButton(m.chat, 'Hello world!', '@umar404', null, [
+conn.sendButton(m.chat, 'Hello world!', '@phantom6w6', null, [
       ['Hello', 'hello'], ['Bye', 'bye']
 ])
 // example button location
-conn.sendButton(m.chat, 'Hello world!', '@umar404', 'https://github.com/umar404', 
+conn.sendButton(m.chat, 'Hello world!', '@phantom6w6', 'https://github.com/phantom6w6', 
       [['Hello', 'hello'], ['Bye', 'bye']], 
       null, { asLocation: true }
 )
@@ -233,8 +233,8 @@ conn.sendButton(m.chat, 'Hello world!', '@umar404', 'https://github.com/umar404'
 ---------
 
 ## ```Thanks to ✨```
-* [`UMAR DEVIL`](https://github.com/umar404)
+* [`PHANTOM`](https://github.com/phantom6w6)
 
 
 ## ```Recode By ✏️```
-[![umar404](https://github.com/umar404.png?size=70)](https://github.com/umar404)
+[![umar404](https://github.com/umar404.png?size=70)](https://github.com/phantom6w6)
